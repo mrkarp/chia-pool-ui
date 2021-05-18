@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="342" viewBox="0 0 1024 342">
+  <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(7.5)">
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(0 75.5)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="504.5" cy="129.5" rx="504.5" ry="129.5" fill="#003d82" stroke="#3aac59" stroke-width="15"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="468.5" cy="107.5" rx="468.5" ry="107.5" transform="translate(36 37)" fill="#0078ff"/>
+      <g id="Community" transform="translate(232.736 66.615)">
+        <g id="footer" transform="translate(0.124 0.386)">
+          <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+            <g id="Group-14" transform="translate(0 0)">
+              <g id="chia-logo-_1_" data-name="chia-logo-(1)" transform="translate(0 0)">
+                <path id="Rectangle-path" d="M90,19h43.139V145.1H90Z" transform="translate(208.245 42.771)" fill="#3aac59"/>
+                <g id="Group">
+                  <path id="Shape" d="M239.14,44.974c-16.586,0-33.546,3.971-37.769,11.361-.057.094-.112.18-.167.276V3.7H156.91V87.781c4.406,2.018,8.925,4.324,13.5,6.93,1.546.887,2.855,1.661,3.82,2.241.606.364,1.211.729,1.816,1.106.062.039-25.318,39.561-59.882,47.859-20.421,4.907-44.544-1.033-49.432-21.519-.2-.85-.317-1.7-.449-2.553,3.256-1.939,6.586-3.718,9.934-5.368,8.459-3.686,14.915-6.449,17.358-7.386.214-.08.431-.162.644-.24h.013s0,0,.007-.006a213.9,213.9,0,0,1,37.1-9.838,140.677,140.677,0,0,0-39.621,1.93.035.035,0,0,0-.015-.009s-.083.02-.232.059a113.148,113.148,0,0,0-24.62,7.823C70.4,94.046,83.249,81.219,98.453,77.565c1.336-.321,2.691-.569,4.049-.781.391-.06.78-.113,1.172-.165,1.055-.144,2.116-.255,3.184-.342.341-.027.684-.063,1.026-.081q2.048-.129,4.11-.124c.27,0,.54.017.809.018q1.71.025,3.422.134c.4.025.805.052,1.206.084s.8.07,1.2.107a110.046,110.046,0,0,1,23.5,5.463V52.863c-4.3-1.331-8.867-2.619-13.605-3.785-12.492-3.328-33.941-6.87-57.4-1.156C33.4,57.117,22.7,85.032,22.7,119.144a75.154,75.154,0,0,0,.975,12.239A162.341,162.341,0,0,0,.124,150.148s10.883-4.854,25.257-11.24c9.6,32.761,43.065,43.782,68.269,43.782,26.284,0,43.158-7.5,63.26-20.046v15.887H201.2V99.724c.054-.1.11-.205.167-.311V98.074c4.214-11.264,11.382-14.17,19.347-14.17,10.528,0,17.106,7.477,17.106,19.358v75.269h44.294V90.5c0-27.714-17.324-45.531-42.979-45.531" transform="translate(-0.124 7.309)" fill="#3aac59"/>
+                  <path id="Shape-2" data-name="Shape" d="M112.221.385C98.846.385,89.415,9.843,89.415,23.26s9.431,22.873,22.805,22.873,22.808-9.456,22.808-22.873S125.595.385,112.221.385" transform="translate(206.89 -0.385)" fill="#3aac59"/>
+                  <path id="Shape-3" data-name="Shape" d="M241.921,76.951h.053l-.046-56.171H197.581l-.242,7.984c-42.774-27.559-70.082.782-70.082.782C114.2,41.508,106.616,60.392,106.616,84.1c0,42.037,25.193,67.044,57.943,67.044,12.275,0,23.584-2.781,33.347-16.319,1.132,3.156,3.654,10.884,5.459,13.539h46.146c-7.911-13.025-7.845-58.19-7.589-71.416M174.9,114.729c-14.362,0-24.49-12.5-24.49-30.24s10.128-30.243,24.49-30.243c10.071,0,18.056,6.155,21.931,15.947V98.782c-3.873,9.792-11.86,15.947-21.931,15.947" transform="translate(246.768 37.474)" fill="#3aac59"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="7.5" cy="3.5" rx="7.5" ry="3.5" transform="translate(586 136.5)" fill="#003d82"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="7.5" cy="3.5" rx="7.5" ry="3.5" transform="translate(658 140.5)" fill="#003d82"/>
+    <line id="Line_1" data-name="Line 1" y1="144" transform="translate(665.5)" fill="none" stroke="#707070" stroke-width="11"/>
+    <line id="Line_2" data-name="Line 2" y1="140" transform="translate(593.5)" fill="none" stroke="#707070" stroke-width="11"/>
+    <line id="Line_3" data-name="Line 3" x2="73" transform="translate(593.5 118)" fill="none" stroke="#707070" stroke-width="11"/>
+    <line id="Line_4" data-name="Line 4" x2="73" transform="translate(592.5 89)" fill="none" stroke="#707070" stroke-width="11"/>
+    <line id="Line_5" data-name="Line 5" x2="73" transform="translate(593.5 62.5)" fill="none" stroke="#707070" stroke-width="11"/>
+    <line id="Line_6" data-name="Line 6" x2="73" transform="translate(590.5 33.5)" fill="none" stroke="#707070" stroke-width="11"/>
+  </g>
+</svg>
